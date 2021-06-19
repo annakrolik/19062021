@@ -1,5 +1,5 @@
-public class new1 {
-    public static void main(String[] args) {
+public class new1 {                                 // deklaracja klasy
+    public static void main(String[] args) {        // deklaracja metody
 
         int dzienTygodnia = 3;
         switch (dzienTygodnia){
